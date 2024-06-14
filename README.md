@@ -29,7 +29,7 @@ Ingeniero Informático sociable y colaborativo 🤝, con habilidades técnicas s
 
 Estoy actualmente realizando cursos para seguir ampliando mis habilidades y conocimientos en:
 
-- ![MERN Stack](https://img.shields.io/badge/-MERN%20Stack-61DAFB?logo=react&logoColor=white) (MongoDB, Express, React y Node.js)
+- ![MERN Stack](https://img.shields.io/badge/-MERN%20Stack-61DAFB?logo=react&logoColor=white) MongoDB, Express, React y Node.js
 - ![Ciberseguridad](https://img.shields.io/badge/-Ciberseguridad-6A1B9A?logo=security&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
@@ -41,7 +41,7 @@ Estoy deseoso de contribuir con mi experiencia en proyectos.
 ## Contacto
 
 📧 [sergio.fagundez.m@gmail.com]  
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white) [www.linkedin.com/in/sergiofagundezmanso]  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiofagundezmanso)
 
 ---
 
