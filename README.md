@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-¡Bienvenido a mi perfil de GitHub!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F798F5&background=000000&vCenter=true&random=false&width=435&lines=%C2%A1Bienvenido+a+mi+perfil+de+GitHub!)](https://git.io/typing-svg)
 
 Ingeniero Informático sociable y colaborativo 🤝, con habilidades técnicas sólidas que abarcan diversas áreas. Aquí tienes una visión general de mis habilidades y experiencia:
 
