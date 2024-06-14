@@ -41,7 +41,7 @@ Estoy deseoso de contribuir con mi experiencia en proyectos.
 ## Contacto
 
 📧 [sergio.fagundez.m@gmail.com]  
-🔗 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white) [www.linkedin.com/in/sergiofagundezmanso]  
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white) [www.linkedin.com/in/sergiofagundezmanso]  
 
 ---
 
