@@ -111,4 +111,5 @@ Estoy deseoso de contribuir con mi experiencia en proyectos.
 ¡Gracias por visitar mi perfil! No dudes en explorar mis repositorios y proyectos. Estoy siempre abierto a colaboraciones y nuevas ideas. 🚀
 
 ---
-![Snake animation](https://raw.githubusercontent.com/{Sergiiosg}/{Sergiiosg}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Sergiiosg/Sergiiosg/output/github-contribution-grid-snake-dark.svg)
+
