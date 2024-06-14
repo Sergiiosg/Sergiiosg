@@ -13,7 +13,7 @@ Ingeniero Informático sociable y colaborativo 🤝, con habilidades técnicas s
   - ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
   - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) & ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
   - ![Salesforce Apex](https://img.shields.io/badge/-Salesforce%20Apex-00A1E0?logo=salesforce&logoColor=white)
-  - ![](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+  - ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
   
 - **Especialidades:**
   - ![Ciberseguridad](https://img.shields.io/badge/-Ciberseguridad-6A1B9A?logo=security&logoColor=white)
